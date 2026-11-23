@@ -22,6 +22,8 @@ Este projeto pretende comparar a evolução do mercado e as características dos
 
 ## Cinco lentes para entender o mercado
 
+![As cinco dimensões da análise](assets/02-cinco-pilares.png)
+
 | Dimensão | O que queremos descobrir |
 | :--- | :--- |
 | ⚡ **Eletrificação** | Como BEV, PHEV, HEV e MHEV se distribuem entre os modelos e segmentos? |
@@ -32,12 +34,8 @@ Este projeto pretende comparar a evolução do mercado e as características dos
 
 ## Como vamos investigar
 
-```mermaid
-flowchart LR
-    A["01 · Coleta<br/>Fontes oficiais"] --> B["02 · Preparação<br/>Python"]
-    B --> C["03 · Análise<br/>Indicadores e comparações"]
-    C --> D["04 · Visualização<br/>Gráficos e narrativa"]
-```
+![Metodologia — coleta, tratamento, análise e visualização](assets/03-metodologia.png)
+
 
 Cada etapa será desenvolvida e documentada progressivamente. O objetivo é produzir uma análise **compreensível, reproduzível e fundamentada**, sem construir infraestrutura desnecessária.
 
@@ -53,6 +51,8 @@ Cada etapa será desenvolvida e documentada progressivamente. O objetivo é prod
 
 ## Fontes de dados
 
+![Fontes de dados para a investigação](assets/04-fontes-de-dados.png)
+
 | Fonte | Papel na pesquisa | Situação |
 | :--- | :--- | :--- |
 | [Inmetro — PBE Veicular](https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular) | Eficiência energética e consumo | 🔎 A verificar |
@@ -65,6 +65,10 @@ Cada etapa será desenvolvida e documentada progressivamente. O objetivo é prod
 *As fontes acima são candidatas. Ainda precisamos confirmar arquivos disponíveis, cobertura, qualidade e condições de uso.*
 
 ## Diário de bordo
+
+![Roadmap visual do projeto — arte ilustrativa em revisão](assets/05-status-projeto-revisar.png)
+
+> **Atenção:** o painel visual de status acima ainda está em revisão. A preparação do ambiente e o pipeline **não foram iniciados**. O checklist abaixo é a referência atualizada do andamento real do projeto.
 
 **Fase atual: planejamento e levantamento de fontes.**
 
