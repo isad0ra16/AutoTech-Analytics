@@ -1,6 +1,6 @@
 <div align="center">
 
-![AutoTech Analytics — Beyond the Drive](assets/autotech-cover.svg)
+![AutoTech Analytics — Beyond the Drive](assets/01-capa.png)
 
 **O que realmente define o futuro da mobilidade?**
 
