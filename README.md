@@ -64,23 +64,11 @@ Cada etapa será desenvolvida e documentada progressivamente. O objetivo é prod
 
 *As fontes acima são candidatas. Ainda precisamos confirmar arquivos disponíveis, cobertura, qualidade e condições de uso.*
 
-## Diário de bordo
+## Status do projeto
 
 ![Roadmap visual do projeto — arte ilustrativa em revisão](assets/05-status-projeto-revisar.png)
 
-> **Atenção:** o painel visual de status acima ainda está em revisão. A preparação do ambiente e o pipeline **não foram iniciados**. O checklist abaixo é a referência atualizada do andamento real do projeto.
-
-**Fase atual: planejamento e levantamento de fontes.**
-
-- [x] Definir a pergunta central e o escopo da pesquisa
-- [x] Estabelecer identidade visual independente de montadoras
-- [ ] Validar a primeira base do Inmetro
-- [ ] Criar a primeira leitura de dados em Python
-- [ ] Limpar e explorar os dados
-- [ ] Construir comparações e visualizações
-- [ ] Documentar resultados e limitações
-
-Não há resultados analíticos publicados nesta fase. Conforme o estudo avançar, esta página ganhará gráficos, diagramas e descobertas sustentadas pelos dados.
+> **Nota:** a arte de status ainda precisa de uma correção: a preparação do ambiente e o pipeline não foram iniciados.
 
 ---
 
