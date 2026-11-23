@@ -2,10 +2,6 @@
 
 ![AutoTech Analytics — Beyond the Drive](assets/01-capa.png)
 
-**O que realmente define o futuro da mobilidade?**
-
-Uma investigação orientada por dados sobre **mercado, eletrificação, tecnologia, design e competitividade** no Brasil.
-
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-00B8D9?style=flat-square) ![Área](https://img.shields.io/badge/área-data%20analytics-19334C?style=flat-square) ![Linguagem](https://img.shields.io/badge/linguagem-Python-2478A6?style=flat-square)
 
 [Explorar a pesquisa](#a-investigação) · [Entender o método](#como-vamos-investigar) · [Consultar as fontes](#fontes-de-dados)
